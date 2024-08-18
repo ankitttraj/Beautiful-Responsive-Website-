@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-brand{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+}
+
+.bestseller{
+    display: block;
+    margin-top: 7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 600px;
+    color: black;
+}
+
+.row{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.mt-5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.fakeimg{
+    margin-top: 20px;
+}
+
+footer{
+    margin-top: 50px;
+}
+
+.About{
+    color: yellow;
+}
